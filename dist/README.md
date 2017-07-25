@@ -10,9 +10,8 @@ In this, you can find addtional features for displaying custom events in calenda
 
 In Html file,
 
- <multiple-date-picker  
-     slot-data="calEventData">
-</multiple-date-picker>
+#<multiple-date-picker slot-data="calEventData">
+#</multiple-date-picker>
 
 In controller,
 
@@ -30,7 +29,7 @@ $scope.calEventData = [{
 Please read [MultipleDatePicker](https://github.com/arca-computing/MultipleDatePicker) for details on original MultipleDatePicker, installation and examples.
 
 
-## Authors
+## Author
 
 * **Kiran Kumar KN** - *Added new functionality to existing MultipleDatePicker* 
 
