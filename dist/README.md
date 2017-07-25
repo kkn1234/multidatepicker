@@ -19,7 +19,7 @@ $scope.calEventData = [{
 "StartDate": "mm-dd-yyyy"
 }]
 
-![alt text](New Picture.bmp)
+![Screen Shot](https://raw.githubusercontent.com/kkn1234/multidatepicker/master/dist/New%20Picture.bmp)
 
 
 ## Contributing
