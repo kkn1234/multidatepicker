@@ -10,8 +10,8 @@ In this, you can find addtional features for displaying custom events in calenda
 
 In Html file,
 <pre>
-	<multiple-date-picker slot-data="calEventData">
-	</multiple-date-picker>
+	&lt;<span>multiple-date-picker</span> <span>slot-data="calEventData"</span>&gt;
+	&lt;<span>/multiple-date-picker</span>&gt;
 </pre>
 
 In controller,
