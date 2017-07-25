@@ -1,6 +1,6 @@
 # Project Title
 
-The project is using existing MultipleDatePicker.
+The project is using existing [MultipleDatePicker](https://github.com/arca-computing/MultipleDatePicker).
 
 In this, you can find addtional features for displaying custom events in calendar based on dates.
 
@@ -10,8 +10,8 @@ In this, you can find addtional features for displaying custom events in calenda
 
 In Html file,
 
-#<multiple-date-picker slot-data="calEventData">
-#</multiple-date-picker>
+<multiple-date-picker slot-data="calEventData">
+</multiple-date-picker>
 
 In controller,
 
@@ -31,12 +31,12 @@ Please read [MultipleDatePicker](https://github.com/arca-computing/MultipleDateP
 
 ## Author
 
-* **Kiran Kumar KN** - *Added new functionality to existing MultipleDatePicker* 
+* **Kiran Kumar KN** - *Added new functionality to existing MultipleDatePicker directive* 
 
-See the original project [Original project](https://github.com/arca-computing/MultipleDatePicker).
+See the original project [MultipleDatePicker](https://github.com/arca-computing/MultipleDatePicker) by arca-computing.
 
 
 ## Acknowledgments
 
-* Credit to arca-computing https://github.com/arca-computing for developing a MultipleDatePicker.
+* Credit to arca-computing https://github.com/arca-computing, the orinal author of MultipleDatePicker.
 
