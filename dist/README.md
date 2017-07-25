@@ -13,11 +13,11 @@ In this, you can find addtional features for displaying custom events in calenda
 
 In controller,
 
-$scope.calEventData = {
+$scope.calEventData = [{
 "price": 5,
 "slotsAvailable" : 3,
 "StartDate": "mm-dd-yyyy"
-}
+}]
 
 
 ## Contributing
