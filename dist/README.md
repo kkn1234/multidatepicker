@@ -19,7 +19,7 @@ $scope.calEventData = [{
 "StartDate": "mm-dd-yyyy"
 }]
 
-![alt text](D:/kiran/New Picture.bmp)
+![alt text](New Picture.bmp)
 
 
 ## Contributing
