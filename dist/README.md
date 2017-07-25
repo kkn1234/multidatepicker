@@ -2,7 +2,7 @@
 
 The project is using existing [MultipleDatePicker](https://github.com/arca-computing/MultipleDatePicker).
 
-In this, you can find addtional features for displaying custom events in calendar based on dates.
+In this project, you can find addtional features implemented for displaying custom events in calendar based on dates.
 
 
 
@@ -24,6 +24,8 @@ $scope.calEventData = [{
 
 ![Screen Shot](https://raw.githubusercontent.com/kkn1234/multidatepicker/master/dist/New%20Picture.bmp)
 
+Please check original project for installation and examples, add calendar functionality in multipleDatePicker.js file 
+for displaying custom events in calendar based on dates.
 
 ## Reference
 
