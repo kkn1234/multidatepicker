@@ -25,7 +25,7 @@ $scope.calEventData = [{
 ![Screen Shot](https://raw.githubusercontent.com/kkn1234/multidatepicker/master/dist/New%20Picture.bmp)
 
 
-## Contributing
+## Reference
 
 Please read [MultipleDatePicker](https://github.com/arca-computing/MultipleDatePicker) for details on original MultipleDatePicker, installation and examples.
 
