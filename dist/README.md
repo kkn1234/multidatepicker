@@ -7,6 +7,9 @@ In this, you can find addtional features for displaying custom events in calenda
 
 
 ### Example
+
+In Html file,
+
  <multiple-date-picker  
      slot-data="calEventData">
 </multiple-date-picker>
