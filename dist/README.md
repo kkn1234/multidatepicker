@@ -1,4 +1,4 @@
-# Project Title
+# Angular multi-date-picker
 
 The project is using existing [MultipleDatePicker](https://github.com/arca-computing/MultipleDatePicker).
 
