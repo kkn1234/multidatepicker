@@ -1,0 +1,91 @@
+/////////////Calendar
+.picker-day:not(.picker-off):not(.picker-empty):hover{
+background-color: #fff;
+}
+.picker-day:not(.picker-off):not(.picker-empty):not(.picker-selected):hover {
+     background-color: #fff;
+	}
+	.multiple-date-picker{
+	 width: 60%;
+	}
+	.picker-day{
+	width:60px;
+	}
+	.picker-day.holiday.picker-off {
+	    border-radius: 25px;
+	    background: #73AD21;
+	    padding: 10px; 
+	    width: 200px;
+	    height: 8px;    
+	    color:#fff;
+	}
+	
+	.picker-day.picker-selected, .picker-day:not(.picker-off):not(.picker-empty):hover {
+	    background-image: url("../../assets/img/calender-bg.png");
+	    color:#fff;
+	    background-color:#fff;
+	    background-repeat: no-repeat;
+	    background-attachment: inherit;
+	    background-position: center;
+	}	
+	#parking-list-checkIn .today{		
+	    color:#333;
+	    /*background-color:#fff;
+	    background-repeat: no-repeat;
+	    background-attachment: inherit;
+	    background-position: center;
+		background-image: url("../../assets/img/calender-bg.png");*/
+	}
+	.todaySelected{
+        background-image: url("../../assets/img/calender-bg.png");
+	    color:#fff;
+	    background-color:#fff !important;
+	    background-repeat: no-repeat;
+	    background-attachment: inherit;
+	    background-position: center;
+	}
+							
+.picker-day.picker-selected {
+	background-color: #fff !important; 
+	color: #fff;
+}					
+	
+//////////Calender for Check In
+#checkin {
+.picker-day:not(.picker-off):not(.picker-empty):hover{
+	background-color: red;
+	}
+.picker-day:not(.picker-off):not(.picker-empty):not(.picker-selected):hover {
+     background-color: #fff;
+	}
+	.multiple-date-picker{
+	 width: 100%;
+	}
+	.picker-day{
+		//width:60px;
+	}
+	.picker-day.holiday.picker-off {
+	    
+	    background: #73AD21;
+	    padding: 10px; 
+	    width: 200px;	        
+	    color:#fff;
+	}
+	
+	.picker-day.picker-selected, .picker-day:not(.picker-off):not(.picker-empty):hover {
+	 background-image: none !important;
+	  background-color: @way_color !important;
+   	 color: #fff;
+	    
+	}
+
+.todaySelected{        
+	    color:@way_color;
+	    background-color:#fff !important;	  
+}
+							
+.picker-day.picker-selected {
+	background-color: @way_color !important;
+    color: #fff;
+}	
+}	  
